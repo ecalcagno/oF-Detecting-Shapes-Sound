@@ -3,4 +3,4 @@ This is an application that used ofOpenCv, ofGui and ofFFT for detecting shapes 
 
 Tested in OSX Mountain Lion 10.8.5. 
 
-Contact: ecalcagno@unq.edu.ar
+Contact: estebancalca@gmail.com
